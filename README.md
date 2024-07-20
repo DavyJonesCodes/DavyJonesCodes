@@ -1,6 +1,6 @@
 # Ahoy, matey! Welcome to the GitHub profile of Dev Jones 🏴‍☠️
 
-![Pirate Banner](https://raw.githubusercontent.com/DavyJonesCodes/DavyJonesCodes/main/banner.png) <!-- Replace with your own banner image URL -->
+![Pirate Banner](https://raw.githubusercontent.com/DavyJonesCodes/DavyJonesCodes/b9f49866751c0ce42598d74b4ceecee685750e01/banner.png) <!-- Replace with your own banner image URL -->
 
 ## 🏴‍☠️ About Me
 
